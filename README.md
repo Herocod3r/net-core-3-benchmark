@@ -10,4 +10,4 @@ To find out about the challenge click [Here](https://github.com/devcenter-square
 
 |  Method |     Mean |    Error |   StdDev |     Gen 0 | Gen 1 | Gen 2 | Allocated |
 |-------- |---------:|---------:|---------:|----------:|------:|------:|----------:|
-| FileSum | 651.6 ms | 12.91 ms | 17.67 ms | 1000.0000 |     - |     - | 432.92 KB |
+| FileSum | 558.4 ms | 11.04 ms | 23.04 ms | 1000.0000 |     - |     - | 432.92 KB |
